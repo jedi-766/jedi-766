@@ -38,7 +38,7 @@ Currently studying Electrical Engineering at **Cebu Institute Technology - Unive
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/jed-iv">
+  <a href="https://www.linkedin.com/in/jed-iv/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:jedivan.alcala@cit.edu">
